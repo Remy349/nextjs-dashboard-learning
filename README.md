@@ -1,3 +1,1 @@
 ## NextJS Dashboard Learning
-
-Working on it....
